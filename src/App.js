@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="container">
-      <Header></Header>
+      <Header title={2}/>
     </div>
   );
 }
